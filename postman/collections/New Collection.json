@@ -1,0 +1,35 @@
+{
+	"info": {
+		"_postman_id": "38e92163-bf12-4386-bc2b-8899560d6b12",
+		"name": "New Collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_uid": "10159365-38e92163-bf12-4386-bc2b-8899560d6b12"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"id": "b0369bac-6863-461a-9c4b-02b90c7e29d5",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://19f44fbb-c924-4a18-99d5-20761ecf1e7f.mock.pstmn.io/tesrt",
+					"protocol": "https",
+					"host": [
+						"19f44fbb-c924-4a18-99d5-20761ecf1e7f",
+						"mock",
+						"pstmn",
+						"io"
+					],
+					"path": [
+						"tesrt"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
